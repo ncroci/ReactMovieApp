@@ -1,0 +1,37 @@
+input[type="radio"] {
+    display: none;
+}
+
+.movieDiv {
+    display: flex;
+    width: 75%;
+    border: 5px solid red;
+    margin: 10px auto;
+}
+
+.titleDiv {
+    display: block;
+    margin: 10px;
+}
+
+.wordDiv {
+    display: block;
+    margin: 10px;
+}
+
+img {
+    width: 200px;
+}
+
+.reviewInput {
+    height: 200px;
+    width: 400px;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    background-color: rgba(192, 192, 192, 0.829);
+}
